@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1460268211b6d64784d3beb83d663e2, type: 3}
+  m_Name: BTR
+  m_EditorClassIdentifier: 
+  HP: 2
+  Reward: 2
+  Damage: 1
+  MovementSpeed: 2.3
+  Sprite: {fileID: 6703277102297299506, guid: da65562db4d696a43a025a773b196248, type: 3}
+  EnemyPrefab: {fileID: 4833705269012935958, guid: 0d10b6ed5f6dc974ebc4acfd17b13aff, type: 3}

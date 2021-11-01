@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03cd9e0c50628354fbe0aae938a1145d, type: 3}
+  m_Name: Level_3
+  m_EditorClassIdentifier: 
+  PresentedName: HelloThere
+  SceneName: Level3
+  StartingMoney: 35
+  NumberOfSpawns: 5
+  Waves:
+  - {fileID: 11400000, guid: 7128fa8746a788647a8d84e1daab025b, type: 2}
+  - {fileID: 11400000, guid: d112b342a560548428cca2847ed17ac6, type: 2}
+  - {fileID: 11400000, guid: d3293bb51d4bd4d45967139485c83438, type: 2}
+  - {fileID: 11400000, guid: 27e0de189fbc72f4285a5b036617ed0d, type: 2}
+  - {fileID: 11400000, guid: e248c648d3ead714e9b1b8499d788712, type: 2}
+  - {fileID: 11400000, guid: c64886887c6577744a64fa672e7d2eca, type: 2}

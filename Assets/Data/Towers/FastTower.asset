@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1079b301b0d1e944387fffa6750dfb98, type: 3}
+  m_Name: FastTower
+  m_EditorClassIdentifier: 
+  Name: SimpleTower
+  Cost: 10
+  Hotkey: d
+  Icon: {fileID: -2399032805889199895, guid: da65562db4d696a43a025a773b196248, type: 3}
+  TowerPrefab: {fileID: 4379186234788005998, guid: 33d8320fea53c1e4083eefd9370fd357, type: 3}
